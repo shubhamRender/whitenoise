@@ -1,0 +1,364 @@
+.choose-section {
+  margin-top: 212px;
+}
+.choose-section .content p {
+  margin-bottom: 88px;
+}
+#vision {
+  max-width: 67%;
+}
+#product {
+  text-align: center;
+  margin-top: 121px;
+}
+
+#blog {
+  margin-top: -50px;
+}
+.value {
+  padding-bottom: 190px;
+}
+.value1 {
+  padding-bottom: 157px;
+}
+.value2 {
+  padding-bottom: 189px;
+}
+.value3 {
+  padding-bottom: 84px;
+}
+.value4 {
+  padding-bottom: 157px;
+}
+.value5 {
+  padding-bottom: 157px;
+}
+#con {
+  text-align: center;
+  margin-bottom: 33px;
+  margin-top: -125px;
+}
+#off {
+  margin-top: -90px;
+  text-align: center;
+}
+
+#banner {
+  width: 518px;
+  margin-bottom: 291px;
+}
+@media only screen and (max-width: 991px) {
+  #banner {
+    width: 404px;
+    margin-bottom: 38px;
+  }
+  #logo {
+    height: 94px;
+  }
+  #vision1 {
+    height: 100%;
+  }
+
+  .choose-section {
+    margin-top: 21px;
+  }
+  .value {
+    padding-bottom: 19px;
+  }
+  .value1 {
+    padding-bottom: 15px;
+  }
+  .value2 {
+    padding-bottom: 18px;
+  }
+  .value3 {
+    padding-bottom: 8px;
+  }
+  .value4 {
+    padding-bottom: 15px;
+  }
+  .value5 {
+    padding-bottom: 15px;
+  }
+
+  #video {
+    margin-top: -354px !important;
+    width: 636px;
+  }
+  .banner_content {
+    margin-top: -584px !important;
+  }
+  #about {
+    margin-top: -133px;
+  }
+  .ad {
+    padding-top: 1px !important;
+    padding-right: 1px !important;
+  }
+  .inves {
+    margin-top: 356px !important;
+    padding-left: 1px !important;
+  }
+  .supply {
+    padding-right: 1px !important;
+    margin-top: 1px !important;
+  }
+  .tech {
+    margin-top: 1px !important;
+    padding-left: 1px !important;
+  }
+  #service {
+    margin-top: 100px;
+    padding-left: 23px;
+  }
+  .market {
+    padding-left: 1px !important;
+  }
+  .asset {
+    padding-top: 1px !important;
+    margin-left: 1px !important;
+  }
+  #con {
+    text-align: center;
+    margin-bottom: 33px;
+    margin-top: -65px !important;
+  }
+  #link {
+    margin-top: 1px !important;
+  }
+  #icon2 {
+    margin-left: 12px !important;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  #icon1 {
+    margin-left: 19px !important;
+  }
+  #cofounder {
+    height: 260px !important;
+  }
+  .audio {
+    height: 50px !important;
+  }
+
+  #video {
+    height: 660px !important;
+    width: 1050px !important;
+  }
+  .pro {
+    height: 187px !important;
+  }
+  .banner_content {
+    margin-top: -360px !important;
+  }
+  #us {
+    height: 189px !important;
+  }
+  .inves {
+    margin-top: 6px !important;
+  }
+  #text {
+    height: 182px !important;
+  }
+  #about {
+    margin-top: 1px !important;
+  }
+  .service-section .service_wrapper .service-image1 {
+    left: -102px !important;
+    width: 400px;
+  }
+  .asset {
+    padding-top: 1px !important;
+    margin-left: -68px !important;
+  }
+  #link {
+    margin-top: 1px !important;
+  }
+  .contactpage-section .contact-box .box-content a {
+    font-size: 15px;
+  }
+  #logo {
+    height: 116px !important;
+  }
+}
+
+#icon1 {
+  font-size: 40px;
+  margin-left: 33px;
+}
+#icon2 {
+  font-size: 40px;
+  margin-left: -24px;
+}
+
+#cofounder {
+  height: 434px;
+}
+.pro {
+  height: auto;
+  text-align: justify;
+  /* height: 150px; */
+}
+
+/* Blog card image fix */
+.post-image {
+  width: 100%;
+  height: 390px; /* same height for both */
+  overflow: hidden;
+  border-radius: 12px; /* optional nice look */
+}
+
+.post-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* crop image properly */
+  display: block;
+}
+
+/* Make all cards equal height */
+.post-item-wrap {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.lower-portion {
+  flex-grow: 1;
+  padding: 15px;
+  background: #fff;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .post-image {
+    height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .post-image {
+    height: 250px;
+  }
+}
+
+#video {
+  /* height: 900px; */
+  margin-top: -282px;
+}
+.banner_content {
+  margin-top: -645px;
+}
+#us {
+  height: 233px;
+}
+.header {
+  background: #fff;
+}
+#vision1 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.content {
+  align-items: center;
+}
+
+.asset {
+  padding-top: 63px;
+  margin-left: -57px;
+}
+.market {
+  padding-left: 47px;
+}
+.inves {
+  margin-top: 137px;
+  padding-left: 103px;
+}
+.ad {
+  padding-top: 109px;
+  padding-right: 62px;
+}
+.supply {
+  padding-right: 30px;
+  margin-top: -151px;
+}
+#media {
+  padding-top: 20px;
+}
+#text {
+  height: 143px;
+}
+.real {
+  margin-top: -60px;
+  font-weight: 600;
+}
+.tech {
+  margin-top: -120px;
+  padding-left: 67px;
+}
+#link {
+  margin-top: 10px;
+}
+#serviceheader {
+  color: #000;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 30px;
+}
+.contactpage-section .contact-box .box-content a {
+  font-size: 18px;
+}
+
+/* Contact box styling */
+.contact-box {
+  background: #f5f6f7;
+  border-radius: 16px;
+  padding: 25px 20px;
+  display: flex;
+  align-items: center; /* vertical center */
+  gap: 18px;
+  height: 100%;
+  transition: 0.3s;
+}
+
+/* icon box */
+.box-image .icon {
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(135deg, #3b8edb, #2c7cc4);
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-image img {
+  width: 28px;
+  height: 28px;
+}
+
+/* text */
+.box-content p {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1c2b33;
+  word-break: break-word;
+}
+
+/* hover effect */
+.contact-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* responsive */
+@media (max-width: 768px) {
+  .contact-box {
+    padding: 18px;
+  }
+  .box-content p {
+    font-size: 16px;
+  }
+}
