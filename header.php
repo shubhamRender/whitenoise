@@ -10,7 +10,7 @@
     <header class="header">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand" href="index.php" ><figure class="mb-0 banner-logo"><img id="logo" src="assets/images/logo.JPEG" alt="" class="img-fluid"></figure></a>
+                <a class="navbar-brand" href="index.php" ><figure class="mb-0 banner-logo"><img id="logo" src="assets/images/logo.JPEG" alt="" class="img-fluid" style="height: 130px;"></figure></a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 <span class="navbar-toggler-icon"></span>

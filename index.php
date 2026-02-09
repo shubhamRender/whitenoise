@@ -60,12 +60,12 @@ style="background-image: url('./assets/images/backgroundgif.gif');">
                 <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                     <div class="banner_content">
                         <h6>A Technology Media Company</h6>
-                        <h1>Global Tech<span>Influencer</span> Media Platform</h1>
-                        <marquee><a class="explore">Tech & Business Influencer<i class="circle fa-regular fa-angle-right"></i></a></marquee>
+                        <h1>Global <span>Tech & Business Influencer</span> Media Platform</h1>
+                        <a class="explore">Powered by AI<i class="circle fa-regular fa-angle-right"></i></a>
                         <!-- <marquee><a class="explore">Powered by AI<i class="circle fa-regular fa-angle-right"></i></a></marquee> -->
                         <br>
                         <br>
-                        <h4 class="text-white">Focused On Bringing Real-Time Tech Content To Day-To-Mainstream </h4>
+                        <h4 class="text-white">Bringing Real-Time Tech & Business Content To Day-To-Day Mainstream</h4>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12 col-12">
@@ -94,8 +94,8 @@ style="background-image: url('./assets/images/backgroundgif.gif');">
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                 <div class="about_content">
-                    <h2>About WhiteNoise</h2>
-                    <p class="text1 text-size-18">"We are an AI technology media company, building Tech & Financial products & services, powered by AI.</p>
+                    <h2>About WhiteNoise Corporation</h2>
+                    <p class="text1 text-size-18">We are an AI technology media company, building Tech & Financial products & services, powered by AI.</p>
                     <!-- <p class="text1 text-size-18">We are building world’s first only tech content and market intelligence real-time broadcasting App
 service platform using Artificial Intelligence at scale. We aim to bring deep insights about tech
 information and intelligence across all verticals into users’s day-to-day mainstream.<br><br>We are focused on building most trusted and reliable global tech influencer media platform for the
@@ -121,7 +121,7 @@ people around the World.</p> -->
             <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="content" data-aos="fade-up">
                     <h1>Vision</h1>
-                    <p class="text-size-18" >We are focused on building most trusted and reliable global tech & business media influencer platform for the people around the world</p>
+                    <p class="text-size-18" >We are focused on building most trusted and reliable global tech & business media influencer platform for the people around the world.</p>
                     <!-- <p class="text-size-18" >We aim to bring only technology content provider platform across all tech
 verticals with real-time deep insights and market intelligence useful for people
 across the world. </p> -->
@@ -145,6 +145,40 @@ across the world. </p> -->
         <div class="row wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div id="blog" class="col-xl-12">
                 <div class="row">
+
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="blog-box twocolumn-blog float-left w-100 post-item mb-4">
+                            <div class="post-item-wrap position-relative">
+                                <div class="post-image">
+                                    <img alt="" src="assets/images/TS/logo.jpg">
+                                   
+                                </div>
+                                <div class="lower-portion">
+                                    <div class="content">
+                                        <h5>
+                                            TechSocial platform is an AI-powered social media platform designed for tech and business enthusiasts. It enables users to share insights, discover trending innovations, and connect with industry leaders — all through intelligent content curation and personalized AI recommendations. <br/> <br/> Join us, Express your Opinions, Thoughts, Experiences about Science, Technology, Research, Innovation, Business, Stocks, Financial markets, Investments etc.
+                                        </h5>
+                                        <!-- <h5>
+                                            Real-time tech content streaming App
+                                             (Andriod/iOS) as well as only technology
+                                                        social media App for people participation
+                                                around the world. Exclusive and Deep-insights about technology powered by AI.
+                                        </h5> -->
+                                    </div>        
+                                </div>
+                                <div class="app-store-buttons">
+  <a href="#" class="store-btn">
+    <img src="assets/images/TS/google_play.png" alt="Get it on Google Play">
+  </a>
+
+  <a href="#" class="store-btn">
+    <img src="assets/images/TS/app_store.png" alt="Download on the App Store">
+  </a>
+</div>
+
+                            </div>
+                        </div>
+                </div>
                     
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                         <div class="blog-box twocolumn-blog float-left w-100 post-item mb-4">
@@ -153,8 +187,7 @@ across the world. </p> -->
                                     <img alt="" src="assets/images/TS/adaiNew.jpg">
                                 </div>
                                 <div class="lower-portion">
-                                    <h5 id="text">AI software stack optimized for Ads commercials content generation (App/PC)
-                                        <br>AI models : Text >> Image , Text >> Video , Text >> Audio</h5>
+                                    <h5 id="text">Ad.AI is a multimodal AI model, now you can search 🔍 on real-time content Texts, Links, Images etc.</h5>
                                 </div>
                                                               
                             </div>
@@ -177,29 +210,7 @@ across the world. </p> -->
                     </div>
 
 
-                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <div class="blog-box twocolumn-blog float-left w-100 post-item mb-4">
-                            <div class="post-item-wrap position-relative">
-                                <div class="post-image">
-                                    <img alt="" src="assets/images/TS/logo.png">
-                                   
-                                </div>
-                                <div class="lower-portion">
-                                    <div class="pro">
-                                    <div class="content">
-                                        <h5>
-                                            TechSocial platform is an AI-powered social media platform designed for tech and business enthusiasts. It enables users to share insights, discover trending innovations, and connect with industry leaders — all through intelligent content curation and personalized AI recommendations. <br/> <br/> Join us, Express your Opinions, Thoughts, Experiences about Science, Technology, Research, Innovation, Business, Stocks, Financial markets, Investments etc.
-                                        </h5>
-                                        <!-- <h5>
-                                            Real-time tech content streaming App
-                                             (Andriod/iOS) as well as only technology
-                                                        social media App for people participation
-                                                around the world. Exclusive and Deep-insights about technology powered by AI.
-                                        </h5> -->
-                                    </div>                               
-                            </div>
-                        </div>
-                    </div>
+                    
                    
                   
                  </div>
@@ -313,7 +324,7 @@ across the world. </p> -->
                                         <figure class="service-icon">
                                             <img src="./assets/images/digital.png" alt="" class="img-fluid">
                                         </figure>
-                                        <span>Assets manager, Tech business, Consulting, Financial services, Marketing & Advertising.</span>
+                                        <span>Assets manager, Tech business, Consulting, Financial services, Digital Marketing & Advertising.</span>
                                     </div>
                                     </div>
                                 </div>
